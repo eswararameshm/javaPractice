@@ -15,7 +15,7 @@ public class PrimeNum {
 		
 		}
 	}
-
+//this is a method to identify prime num.  
 	public static boolean isPrime(int n) {
 		boolean prime = true;
 		for (int i = 2; i < n; i++) {
