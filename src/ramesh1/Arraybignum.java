@@ -1,7 +1,7 @@
 package ramesh1;
 
 public class Arraybignum {
-	public static void main(String[] args) 
+	public static void main(String[] args)
 	{
 		int[] a= {75,23,55,66,11,9,22,99,27,24,29,59,69,80};
 		int max=a[0];
